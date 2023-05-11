@@ -4,3 +4,4 @@ repo = "https://github.com/Klepac-Ceraj-Lab/VKCJuliaRegistry"
 description = "Julia registry for internal VKC lab packages"
 
 [packages]
+329a1d7f-a79a-43b8-8671-feb503123859 = { name = "VKCComputing", path = "V/VKCComputing" }
