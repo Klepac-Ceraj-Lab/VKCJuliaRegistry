@@ -1,0 +1,6 @@
+name = "VKCJuliaRegistry"
+uuid = "07b6e731-4fa2-4b60-a25c-cc3b54b68635"
+repo = "https://github.com/Klepac-Ceraj-Lab/VKCJuliaRegistry"
+description = "Julia registry for internal VKC lab packages"
+
+[packages]
