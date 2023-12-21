@@ -1,0 +1,3 @@
+name = "FeatureSetEnrichments"
+uuid = "86280b8e-e847-4559-a126-2dcda5c07d84"
+repo = "git@github.com:kescobo/FeatureSetEnrichments.jl.git"
